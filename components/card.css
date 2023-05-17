@@ -1,0 +1,19 @@
+.question-margin{
+    margin: 80px;
+  }
+
+  .question-margin h2{
+    margin-bottom: 40px;
+  }
+  
+  .first-card{
+    margin-bottom: 20px;
+  }
+  .second-card{
+    
+  }
+  .outside {
+    background-color: bisque;
+    padding: 20px;
+    min-width: 150vh;
+  }
